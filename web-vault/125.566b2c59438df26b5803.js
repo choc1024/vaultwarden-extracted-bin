@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_bitwarden_web_vault=self.webpackChunk_bitwarden_web_vault||[]).push([[125],{33125:function(t,n,e){e.r(n),e.d(n,{ExportModule:function(){return p}});var o=e(75115),r=e(71146),a=e(8111),c=e(99229),u=e(85762);const i=[{path:"",component:c.Y,data:{titleId:"exportVault"}}];class s{}s.ɵfac=function(t){return new(t||s)},s.ɵmod=u.oAB({type:s}),s.ɵinj=u.cJS({imports:[a.Bz.forChild(i)]});class p{}p.ɵfac=function(t){return new(t||p)},p.ɵmod=u.oAB({type:p}),p.ɵinj=u.cJS({imports:[r.m,r.f,s,o.N]})}}]);
+//# sourceMappingURL=125.566b2c59438df26b5803.js.map
